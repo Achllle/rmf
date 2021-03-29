@@ -57,8 +57,8 @@ repositories:
     version: master
   demonstrations/rmf_demos:
     type: git
-    url: https://github.com/open-rmf/rmf_demos.git
-    version: main
+    url: https://github.com/Achllle/rmf_demos.git
+    version: free_fact
   thirdparty/ros_ign:
     type: git
     url: https://github.com/osrf/ros_ign.git
